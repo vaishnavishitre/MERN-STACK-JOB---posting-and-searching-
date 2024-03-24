@@ -1,2 +1,2 @@
-# MERN-STACK-JOB---posting-and-searching-
+# MERN-STACK-JOB-posting-and-searching-
 JOB-Search/Post
