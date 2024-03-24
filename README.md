@@ -59,7 +59,7 @@ Breadcrumbs is a full-stack web application built using the MERN (MongoDB, Expre
     npm run start
     ```
 
-7. Open your web browser and navigate to `http://localhost:3000` to access the application.
+7. Open your web browser and navigate to `http://localhost:5173` to access the application.
 
 ## Contributing
 
