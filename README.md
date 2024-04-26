@@ -1,6 +1,6 @@
 #  MERN Stack Job Seeking Web Application
 
-Breadcrumbs is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is designed to help job seekers search for and apply to job opportunities.
+Full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js and desing Figma ) stack. It is designed to help job seekers search for and apply to job opportunities.
 
 ## Features
 
